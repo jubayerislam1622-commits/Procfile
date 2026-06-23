@@ -1,0 +1,2 @@
+[deploy]
+startCommand = "python Version4_VIP_Bot.py"
